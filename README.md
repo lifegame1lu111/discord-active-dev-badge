@@ -4,7 +4,7 @@ Simple discord bot written in AArch64 assembly to redeem the active developer ba
 # Setup
 Requirements:
 ```
-A working C compiler;
+A working GNU C compiler (because i wrote it in the GAS dialect);
 Open SSL:
 LibCURL;
 GNU Make;
