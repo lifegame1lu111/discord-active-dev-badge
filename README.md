@@ -12,4 +12,4 @@ Concord (dev branch)
 ```
 To build the bot simply type make and press Enter.
 
-A tutorial for the concord setup can be found [here](https://github.com/Cogmasters/concord/blob/dev/README.md)
+A tutorial to setup concord can be found [here](https://github.com/Cogmasters/concord/blob/dev/README.md)
