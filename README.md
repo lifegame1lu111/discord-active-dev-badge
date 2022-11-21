@@ -11,5 +11,6 @@ GNU Make;
 Concord (dev branch)
 ```
 To build the bot simply type make and press Enter.
+Then just create an environment variable called TOKEN; set its value to your token and then run the executable file
 
 A tutorial to setup concord can be found [here](https://github.com/Cogmasters/concord/blob/dev/README.md).
