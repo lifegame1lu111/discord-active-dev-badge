@@ -18,6 +18,7 @@ command1:
     .quad S1
     .quad S3
     .quad 0, 2048, 1, 0, 0
+    .p2align 4
 embed:
     .quad S2
     .quad 0, 0, 0, 0
@@ -26,6 +27,7 @@ embed:
 embeds:
     .quad 1
     .quad embed
+    .p2align 4
 response_data:
     .quad 0, 0, 0
     .quad embeds
